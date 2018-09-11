@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{616CF10F-C973-191E-A797-05524DB8E0A4}|">
+  <MonoDevelop.Ide.ItemProperties.3DRunner PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Coin.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerController.cs" Line="454" Column="9" />
+      <File FileName="Assets/Script/CameraManager.cs" Line="21" Column="1" />
+      <File FileName="Assets/Script/FloorSetter.cs" Line="27" Column="1" />
+      <File FileName="Assets/Script/AnimationManager.cs" Line="80" Column="26" />
+      <File FileName="Assets/Script/Coin.cs" Line="41" Column="36" />
+      <File FileName="Assets/Script/AutoDestroy.cs" Line="12" Column="43" />
+      <File FileName="Assets/Script/GameAttribute.cs" Line="32" Column="9" />
+      <File FileName="Assets/Script/Item.cs" Line="30" Column="9" />
+      <File FileName="Assets/Script/Star.cs" Line="18" Column="1" />
+      <File FileName="Assets/Script/MagnetCollider.cs" Line="18" Column="6" />
+      <File FileName="Assets/Script/Magnet.cs" Line="12" Column="48" />
+      <File FileName="Assets/Script/Shoe.cs" Line="1" Column="26" />
+      <File FileName="Assets/Script/Multiply.cs" Line="3" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

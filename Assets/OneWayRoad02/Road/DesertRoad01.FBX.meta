@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 8297b982e1e817d4792c8764d726d66e
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bush
+    100002: Bush 1
+    100004: Bush 2
+    100006: Bush 3
+    100008: Bush 4
+    100010: Bush 5
+    100012: Bush 6
+    100014: Bush 7
+    100016: Bush 8
+    100018: Cactus
+    100020: Cactus 1
+    100022: Cactus 10
+    100024: Cactus 11
+    100026: Cactus 12
+    100028: Cactus 13
+    100030: Cactus 14
+    100032: Cactus 15
+    100034: Cactus 2
+    100036: Cactus 3
+    100038: Cactus 4
+    100040: Cactus 5
+    100042: Cactus 6
+    100044: Cactus 7
+    100046: Cactus 8
+    100048: Cactus 9
+    100050: //RootNode
+    100052: Fence
+    100054: Fence 1
+    100056: Fence 10
+    100058: Fence 11
+    100060: Fence 2
+    100062: Fence 3
+    100064: Fence 4
+    100066: Fence 5
+    100068: Fence 6
+    100070: Fence 7
+    100072: Fence 8
+    100074: Fence 9
+    100076: Road
+    100078: Road 1
+    100080: Stone
+    100082: Stone 1
+    100084: Stone 2
+    100086: Stone 3
+    100088: Stone 4
+    100090: Stone 5
+    100092: Stone 6
+    100094: Stone 7
+    400000: Bush
+    400002: Bush 1
+    400004: Bush 2
+    400006: Bush 3
+    400008: Bush 4
+    400010: Bush 5
+    400012: Bush 6
+    400014: Bush 7
+    400016: Bush 8
+    400018: Cactus
+    400020: Cactus 1
+    400022: Cactus 10
+    400024: Cactus 11
+    400026: Cactus 12
+    400028: Cactus 13
+    400030: Cactus 14
+    400032: Cactus 15
+    400034: Cactus 2
+    400036: Cactus 3
+    400038: Cactus 4
+    400040: Cactus 5
+    400042: Cactus 6
+    400044: Cactus 7
+    400046: Cactus 8
+    400048: Cactus 9
+    400050: //RootNode
+    400052: Fence
+    400054: Fence 1
+    400056: Fence 10
+    400058: Fence 11
+    400060: Fence 2
+    400062: Fence 3
+    400064: Fence 4
+    400066: Fence 5
+    400068: Fence 6
+    400070: Fence 7
+    400072: Fence 8
+    400074: Fence 9
+    400076: Road
+    400078: Road 1
+    400080: Stone
+    400082: Stone 1
+    400084: Stone 2
+    400086: Stone 3
+    400088: Stone 4
+    400090: Stone 5
+    400092: Stone 6
+    400094: Stone 7
+    2300000: Bush
+    2300002: Bush 1
+    2300004: Bush 2
+    2300006: Bush 3
+    2300008: Bush 4
+    2300010: Bush 5
+    2300012: Bush 6
+    2300014: Bush 7
+    2300016: Bush 8
+    2300018: Cactus
+    2300020: Cactus 1
+    2300022: Cactus 10
+    2300024: Cactus 11
+    2300026: Cactus 12
+    2300028: Cactus 13
+    2300030: Cactus 14
+    2300032: Cactus 15
+    2300034: Cactus 2
+    2300036: Cactus 3
+    2300038: Cactus 4
+    2300040: Cactus 5
+    2300042: Cactus 6
+    2300044: Cactus 7
+    2300046: Cactus 8
+    2300048: Cactus 9
+    2300050: Fence
+    2300052: Fence 1
+    2300054: Fence 10
+    2300056: Fence 11
+    2300058: Fence 2
+    2300060: Fence 3
+    2300062: Fence 4
+    2300064: Fence 5
+    2300066: Fence 6
+    2300068: Fence 7
+    2300070: Fence 8
+    2300072: Fence 9
+    2300074: Road
+    2300076: Road 1
+    2300078: Stone
+    2300080: Stone 1
+    2300082: Stone 2
+    2300084: Stone 3
+    2300086: Stone 4
+    2300088: Stone 5
+    2300090: Stone 6
+    2300092: Stone 7
+    3300000: Bush
+    3300002: Bush 1
+    3300004: Bush 2
+    3300006: Bush 3
+    3300008: Bush 4
+    3300010: Bush 5
+    3300012: Bush 6
+    3300014: Bush 7
+    3300016: Bush 8
+    3300018: Cactus
+    3300020: Cactus 1
+    3300022: Cactus 10
+    3300024: Cactus 11
+    3300026: Cactus 12
+    3300028: Cactus 13
+    3300030: Cactus 14
+    3300032: Cactus 15
+    3300034: Cactus 2
+    3300036: Cactus 3
+    3300038: Cactus 4
+    3300040: Cactus 5
+    3300042: Cactus 6
+    3300044: Cactus 7
+    3300046: Cactus 8
+    3300048: Cactus 9
+    3300050: Fence
+    3300052: Fence 1
+    3300054: Fence 10
+    3300056: Fence 11
+    3300058: Fence 2
+    3300060: Fence 3
+    3300062: Fence 4
+    3300064: Fence 5
+    3300066: Fence 6
+    3300068: Fence 7
+    3300070: Fence 8
+    3300072: Fence 9
+    3300074: Road
+    3300076: Road 1
+    3300078: Stone
+    3300080: Stone 1
+    3300082: Stone 2
+    3300084: Stone 3
+    3300086: Stone 4
+    3300088: Stone 5
+    3300090: Stone 6
+    3300092: Stone 7
+    4300000: Road
+    4300002: Road
+    4300004: Bush
+    4300006: Bush
+    4300008: Bush
+    4300010: Bush
+    4300012: Bush
+    4300014: Bush
+    4300016: Bush
+    4300018: Bush
+    4300020: Bush
+    4300022: Cactus
+    4300024: Cactus
+    4300026: Cactus
+    4300028: Cactus
+    4300030: Cactus
+    4300032: Cactus
+    4300034: Cactus
+    4300036: Cactus
+    4300038: Cactus
+    4300040: Cactus
+    4300042: Cactus
+    4300044: Cactus
+    4300046: Cactus
+    4300048: Cactus
+    4300050: Cactus
+    4300052: Cactus
+    4300054: Fence
+    4300056: Fence
+    4300058: Fence
+    4300060: Fence
+    4300062: Fence
+    4300064: Fence
+    4300066: Fence
+    4300068: Fence
+    4300070: Fence
+    4300072: Fence
+    4300074: Fence
+    4300076: Fence
+    4300078: Stone
+    4300080: Stone
+    4300082: Stone
+    4300084: Stone
+    4300086: Stone
+    4300088: Stone
+    4300090: Stone
+    4300092: Stone
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

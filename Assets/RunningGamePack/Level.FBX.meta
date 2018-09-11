@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: 88aae523d03421b4094232c762977b67
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Engel-005
+    100002: Engel-006
+    100004: Engel-007
+    100006: Engel-008
+    100008: Engel-009
+    100010: Engel-010
+    100012: Engel-011
+    100014: Engel-012
+    100016: Engel-013
+    100018: Engel-014
+    100020: Engel-015
+    100022: Engel-016
+    100024: Engel-017
+    100026: Engel-018
+    100028: Engel-019
+    100030: Engel-020
+    100032: Engel-021
+    100034: Engel-022
+    100036: Engel-023
+    100038: Engel-024
+    100040: Engel-025
+    100042: Engel-026
+    100044: Engel-027
+    100046: Engel-028
+    100048: Engel-029
+    100050: Engel-030
+    100052: Engel-031
+    100054: Engel-032
+    100056: Engel-033
+    100058: Engel-034
+    100060: Engel-035
+    100062: Engel-036
+    100064: Engel-037
+    100066: Engel-038
+    100068: Engel-039
+    100070: Engel-040
+    100072: Engel-041
+    100074: Engel-042
+    100076: Engel-043
+    100078: Engel-044
+    100080: Engel-045
+    100082: Engel-046
+    100084: Engel-047
+    100086: Engel-048
+    100088: Engel-049
+    100090: Engel-050
+    100092: Engel-051
+    100094: Engel-052
+    100096: Engel-053
+    100098: Engel-054
+    100100: Engel-055
+    100102: Engel-056
+    100104: Engel-057
+    100106: Engel-058
+    100108: Engel-059
+    100110: Engel-060
+    100112: Engel-061
+    100114: Engel-062
+    100116: Engel-079
+    100118: Engel-080
+    100120: Engel-081
+    100122: Engel-082
+    100124: //RootNode
+    100126: Object001
+    100128: Object003
+    100130: Object004
+    100132: Object005
+    100134: Object007
+    100136: Object015
+    100138: Object016
+    100140: Object017
+    100142: Sus Duvar-006
+    100144: Sus Duvar-007
+    100146: Sus Duvar-008
+    100148: Sus Duvar-016
+    100150: Sus Duvar-017
+    100152: Sus Duvar-018
+    100154: Sus Duvar-019
+    100156: Sus Duvar-020
+    100158: Sus Duvar-021
+    100160: Sus Duvar-022
+    100162: Sus Duvar-026
+    100164: Sus Duvar-027
+    100166: Sus Duvar-028
+    100168: Sus Duvar-029
+    100170: Sus Duvar-030
+    100172: Sus Duvar-031
+    100174: Sus Duvar-032
+    100176: Sus Duvar-033
+    100178: Sus Duvar-034
+    100180: Sus Duvar-043
+    100182: Sus Duvar-044
+    100184: Sus Duvar-045
+    100186: Sus Duvar-046
+    100188: Sus Duvar-047
+    100190: Sus Duvar-048
+    100192: Sus Duvar-049
+    100194: Sus Duvar-050
+    100196: Sus Duvar-051
+    100198: Sus Duvar-052
+    100200: Sus Duvar-053
+    100202: Sus Duvar-054
+    100204: Sus Duvar-055
+    100206: Sus Duvar-056
+    100208: Sus Duvar-057
+    100210: Sus Duvar-058
+    100212: Sus Duvar-059
+    100214: Sus Duvar-060
+    100216: Sus Duvar-061
+    100218: Sus Duvar-062
+    100220: Sus Duvar-063
+    100222: Sus Duvar-064
+    100224: Sus Duvar-065
+    100226: Sus Duvar-066
+    100228: Sus Duvar-067
+    100230: Sus Duvar-068
+    100232: Sus Duvar-069
+    100234: Sus Duvar-070
+    100236: Sus Duvar-071
+    100238: Sus Duvar-072
+    100240: Sus Duvar-073
+    100242: Sus Duvar-074
+    100244: Sus Duvar-075
+    100246: Sus Duvar-076
+    100248: Sus Duvar-077
+    100250: Sus Duvar-078
+    100252: Sus Duvar-079
+    100254: Sus Duvar-080
+    100256: Sus Duvar-081
+    100258: Sus Duvar-082
+    100260: Sus Duvar-083
+    100262: Sus Duvar-084
+    100264: Sus Duvar-085
+    100266: Sus Duvar-086
+    100268: Sus Duvar-087
+    100270: Sus Duvar-088
+    100272: Sus Duvar-089
+    100274: Sus Duvar-090
+    100276: Sus Duvar-091
+    100278: Sus Duvar-092
+    100280: Sus Duvar-093
+    100282: Sus Duvar-094
+    100284: Sus Duvar-095
+    100286: Sus Duvar-096
+    100288: Sus Duvar-097
+    100290: Sus Duvar-098
+    100292: Sus Duvar-099
+    100294: Sus Duvar-1
+    100296: Sus Duvar-100
+    100298: Sus Duvar-101
+    100300: Sus Duvar-102
+    100302: Sus Duvar-103
+    100304: Sus Duvar-104
+    100306: Sus Duvar-105
+    100308: Sus Duvar-106
+    100310: Sus Duvar-107
+    100312: Sus Duvar-108
+    100314: Sus Duvar-109
+    100316: Sus Duvar-110
+    100318: Sus Duvar-111
+    100320: Sus Duvar-112
+    100322: Sus Duvar-113
+    100324: Sus Duvar-114
+    100326: Sus Duvar-115
+    100328: Sus Duvar-116
+    100330: Sus Duvar-117
+    100332: Sus Duvar-118
+    100334: Sus Duvar-119
+    100336: Sus Duvar-120
+    100338: Sus Duvar-121
+    100340: Sus Duvar-122
+    100342: Sus Duvar-123
+    100344: Sus Duvar-124
+    100346: Sus Duvar-2
+    100348: Sus Duvar-3
+    100350: Sus Duvar-4
+    100352: Sus Duvar-5
+    100354: Yol-003
+    100356: Yol-006
+    100358: Yol-007
+    100360: Yol-008
+    100362: Yol-009
+    100364: Yol-021
+    100366: Yol-022
+    100368: Yol-023
+    100370: Yol-024
+    100372: Yol-025
+    100374: Yol-026
+    100376: Yol-027
+    100378: Yol-028
+    100380: Yol-029
+    100382: Yol-030
+    100384: Yol-031
+    100386: Yol-032
+    100388: Yol-033
+    100390: Yol-034
+    100392: Yol-035
+    100394: Yol-036
+    100396: Yol-037
+    100398: Yol-038
+    100400: Yol-039
+    100402: Yol-040
+    100404: Para-003
+    100406: Para-034
+    100408: Para-035
+    100410: Para-036
+    100412: Para-037
+    100414: Para-038
+    100416: Para-039
+    100418: Para-040
+    100420: Para-041
+    100422: Para-042
+    100424: Para-043
+    100426: Para-044
+    100428: Para-045
+    100430: Para-047
+    100432: Para-048
+    100434: Para-049
+    100436: Para-050
+    100438: Para-051
+    100440: Para-052
+    100442: Para-053
+    100444: Para-054
+    100446: Para-055
+    100448: Para-056
+    100450: Para-057
+    100452: Para-058
+    100454: Para-059
+    100456: Para-060
+    100458: Para-061
+    100460: Para-062
+    100462: Para-063
+    100464: Para-064
+    100466: Para-065
+    100468: Para-066
+    100470: Para-067
+    100472: Para-068
+    100474: Para-069
+    100476: Para-070
+    100478: Para-071
+    100480: Para-072
+    100482: Para-073
+    100484: Para-074
+    100486: Para-075
+    100488: Para-076
+    100490: Para-077
+    100492: Para-078
+    100494: Para-079
+    100496: Para-080
+    100498: Para-081
+    100500: Para-082
+    100502: Para-083
+    100504: Para-084
+    100506: Para-085
+    100508: Para-086
+    100510: Para-087
+    100512: Para-088
+    100514: Para-089
+    100516: Para-090
+    100518: Para-091
+    100520: Para-092
+    100522: Para-093
+    100524: Para-094
+    100526: Para-095
+    100528: Para-096
+    100530: Para-097
+    100532: Para-098
+    100534: Para-099
+    100536: Para-100
+    100538: Para-101
+    100540: Para-102
+    100542: Para-103
+    100544: Para-104
+    100546: Para-105
+    100548: Para-106
+    100550: Para-107
+    400000: Engel-005
+    400002: Engel-006
+    400004: Engel-007
+    400006: Engel-008
+    400008: Engel-009
+    400010: Engel-010
+    400012: Engel-011
+    400014: Engel-012
+    400016: Engel-013
+    400018: Engel-014
+    400020: Engel-015
+    400022: Engel-016
+    400024: Engel-017
+    400026: Engel-018
+    400028: Engel-019
+    400030: Engel-020
+    400032: Engel-021
+    400034: Engel-022
+    400036: Engel-023
+    400038: Engel-024
+    400040: Engel-025
+    400042: Engel-026
+    400044: Engel-027
+    400046: Engel-028
+    400048: Engel-029
+    400050: Engel-030
+    400052: Engel-031
+    400054: Engel-032
+    400056: Engel-033
+    400058: Engel-034
+    400060: Engel-035
+    400062: Engel-036
+    400064: Engel-037
+    400066: Engel-038
+    400068: Engel-039
+    400070: Engel-040
+    400072: Engel-041
+    400074: Engel-042
+    400076: Engel-043
+    400078: Engel-044
+    400080: Engel-045
+    400082: Engel-046
+    400084: Engel-047
+    400086: Engel-048
+    400088: Engel-049
+    400090: Engel-050
+    400092: Engel-051
+    400094: Engel-052
+    400096: Engel-053
+    400098: Engel-054
+    400100: Engel-055
+    400102: Engel-056
+    400104: Engel-057
+    400106: Engel-058
+    400108: Engel-059
+    400110: Engel-060
+    400112: Engel-061
+    400114: Engel-062
+    400116: Engel-079
+    400118: Engel-080
+    400120: Engel-081
+    400122: Engel-082
+    400124: //RootNode
+    400126: Object001
+    400128: Object003
+    400130: Object004
+    400132: Object005
+    400134: Object007
+    400136: Object015
+    400138: Object016
+    400140: Object017
+    400142: Sus Duvar-006
+    400144: Sus Duvar-007
+    400146: Sus Duvar-008
+    400148: Sus Duvar-016
+    400150: Sus Duvar-017
+    400152: Sus Duvar-018
+    400154: Sus Duvar-019
+    400156: Sus Duvar-020
+    400158: Sus Duvar-021
+    400160: Sus Duvar-022
+    400162: Sus Duvar-026
+    400164: Sus Duvar-027
+    400166: Sus Duvar-028
+    400168: Sus Duvar-029
+    400170: Sus Duvar-030
+    400172: Sus Duvar-031
+    400174: Sus Duvar-032
+    400176: Sus Duvar-033
+    400178: Sus Duvar-034
+    400180: Sus Duvar-043
+    400182: Sus Duvar-044
+    400184: Sus Duvar-045
+    400186: Sus Duvar-046
+    400188: Sus Duvar-047
+    400190: Sus Duvar-048
+    400192: Sus Duvar-049
+    400194: Sus Duvar-050
+    400196: Sus Duvar-051
+    400198: Sus Duvar-052
+    400200: Sus Duvar-053
+    400202: Sus Duvar-054
+    400204: Sus Duvar-055
+    400206: Sus Duvar-056
+    400208: Sus Duvar-057
+    400210: Sus Duvar-058
+    400212: Sus Duvar-059
+    400214: Sus Duvar-060
+    400216: Sus Duvar-061
+    400218: Sus Duvar-062
+    400220: Sus Duvar-063
+    400222: Sus Duvar-064
+    400224: Sus Duvar-065
+    400226: Sus Duvar-066
+    400228: Sus Duvar-067
+    400230: Sus Duvar-068
+    400232: Sus Duvar-069
+    400234: Sus Duvar-070
+    400236: Sus Duvar-071
+    400238: Sus Duvar-072
+    400240: Sus Duvar-073
+    400242: Sus Duvar-074
+    400244: Sus Duvar-075
+    400246: Sus Duvar-076
+    400248: Sus Duvar-077
+    400250: Sus Duvar-078
+    400252: Sus Duvar-079
+    400254: Sus Duvar-080
+    400256: Sus Duvar-081
+    400258: Sus Duvar-082
+    400260: Sus Duvar-083
+    400262: Sus Duvar-084
+    400264: Sus Duvar-085
+    400266: Sus Duvar-086
+    400268: Sus Duvar-087
+    400270: Sus Duvar-088
+    400272: Sus Duvar-089
+    400274: Sus Duvar-090
+    400276: Sus Duvar-091
+    400278: Sus Duvar-092
+    400280: Sus Duvar-093
+    400282: Sus Duvar-094
+    400284: Sus Duvar-095
+    400286: Sus Duvar-096
+    400288: Sus Duvar-097
+    400290: Sus Duvar-098
+    400292: Sus Duvar-099
+    400294: Sus Duvar-1
+    400296: Sus Duvar-100
+    400298: Sus Duvar-101
+    400300: Sus Duvar-102
+    400302: Sus Duvar-103
+    400304: Sus Duvar-104
+    400306: Sus Duvar-105
+    400308: Sus Duvar-106
+    400310: Sus Duvar-107
+    400312: Sus Duvar-108
+    400314: Sus Duvar-109
+    400316: Sus Duvar-110
+    400318: Sus Duvar-111
+    400320: Sus Duvar-112
+    400322: Sus Duvar-113
+    400324: Sus Duvar-114
+    400326: Sus Duvar-115
+    400328: Sus Duvar-116
+    400330: Sus Duvar-117
+    400332: Sus Duvar-118
+    400334: Sus Duvar-119
+    400336: Sus Duvar-120
+    400338: Sus Duvar-121
+    400340: Sus Duvar-122
+    400342: Sus Duvar-123
+    400344: Sus Duvar-124
+    400346: Sus Duvar-2
+    400348: Sus Duvar-3
+    400350: Sus Duvar-4
+    400352: Sus Duvar-5
+    400354: Yol-003
+    400356: Yol-006
+    400358: Yol-007
+    400360: Yol-008
+    400362: Yol-009
+    400364: Yol-021
+    400366: Yol-022
+    400368: Yol-023
+    400370: Yol-024
+    400372: Yol-025
+    400374: Yol-026
+    400376: Yol-027
+    400378: Yol-028
+    400380: Yol-029
+    400382: Yol-030
+    400384: Yol-031
+    400386: Yol-032
+    400388: Yol-033
+    400390: Yol-034
+    400392: Yol-035
+    400394: Yol-036
+    400396: Yol-037
+    400398: Yol-038
+    400400: Yol-039
+    400402: Yol-040
+    400404: Para-003
+    400406: Para-034
+    400408: Para-035
+    400410: Para-036
+    400412: Para-037
+    400414: Para-038
+    400416: Para-039
+    400418: Para-040
+    400420: Para-041
+    400422: Para-042
+    400424: Para-043
+    400426: Para-044
+    400428: Para-045
+    400430: Para-047
+    400432: Para-048
+    400434: Para-049
+    400436: Para-050
+    400438: Para-051
+    400440: Para-052
+    400442: Para-053
+    400444: Para-054
+    400446: Para-055
+    400448: Para-056
+    400450: Para-057
+    400452: Para-058
+    400454: Para-059
+    400456: Para-060
+    400458: Para-061
+    400460: Para-062
+    400462: Para-063
+    400464: Para-064
+    400466: Para-065
+    400468: Para-066
+    400470: Para-067
+    400472: Para-068
+    400474: Para-069
+    400476: Para-070
+    400478: Para-071
+    400480: Para-072
+    400482: Para-073
+    400484: Para-074
+    400486: Para-075
+    400488: Para-076
+    400490: Para-077
+    400492: Para-078
+    400494: Para-079
+    400496: Para-080
+    400498: Para-081
+    400500: Para-082
+    400502: Para-083
+    400504: Para-084
+    400506: Para-085
+    400508: Para-086
+    400510: Para-087
+    400512: Para-088
+    400514: Para-089
+    400516: Para-090
+    400518: Para-091
+    400520: Para-092
+    400522: Para-093
+    400524: Para-094
+    400526: Para-095
+    400528: Para-096
+    400530: Para-097
+    400532: Para-098
+    400534: Para-099
+    400536: Para-100
+    400538: Para-101
+    400540: Para-102
+    400542: Para-103
+    400544: Para-104
+    400546: Para-105
+    400548: Para-106
+    400550: Para-107
+    2300000: Engel-005
+    2300002: Engel-006
+    2300004: Engel-007
+    2300006: Engel-008
+    2300008: Engel-009
+    2300010: Engel-010
+    2300012: Engel-011
+    2300014: Engel-012
+    2300016: Engel-013
+    2300018: Engel-014
+    2300020: Engel-015
+    2300022: Engel-016
+    2300024: Engel-017
+    2300026: Engel-018
+    2300028: Engel-019
+    2300030: Engel-020
+    2300032: Engel-021
+    2300034: Engel-022
+    2300036: Engel-023
+    2300038: Engel-024
+    2300040: Engel-025
+    2300042: Engel-026
+    2300044: Engel-027
+    2300046: Engel-028
+    2300048: Engel-029
+    2300050: Engel-030
+    2300052: Engel-031
+    2300054: Engel-032
+    2300056: Engel-033
+    2300058: Engel-034
+    2300060: Engel-035
+    2300062: Engel-036
+    2300064: Engel-037
+    2300066: Engel-038
+    2300068: Engel-039
+    2300070: Engel-040
+    2300072: Engel-041
+    2300074: Engel-042
+    2300076: Engel-043
+    2300078: Engel-044
+    2300080: Engel-045
+    2300082: Engel-046
+    2300084: Engel-047
+    2300086: Engel-048
+    2300088: Engel-049
+    2300090: Engel-050
+    2300092: Engel-051
+    2300094: Engel-052
+    2300096: Engel-053
+    2300098: Engel-054
+    2300100: Engel-055
+    2300102: Engel-056
+    2300104: Engel-057
+    2300106: Engel-058
+    2300108: Engel-059
+    2300110: Engel-060
+    2300112: Engel-061
+    2300114: Engel-062
+    2300116: Engel-079
+    2300118: Engel-080
+    2300120: Engel-081
+    2300122: Engel-082
+    2300124: Object001
+    2300126: Object003
+    2300128: Object004
+    2300130: Object005
+    2300132: Object007
+    2300134: Object015
+    2300136: Object016
+    2300138: Object017
+    2300140: Sus Duvar-006
+    2300142: Sus Duvar-007
+    2300144: Sus Duvar-008
+    2300146: Sus Duvar-016
+    2300148: Sus Duvar-017
+    2300150: Sus Duvar-018
+    2300152: Sus Duvar-019
+    2300154: Sus Duvar-020
+    2300156: Sus Duvar-021
+    2300158: Sus Duvar-022
+    2300160: Sus Duvar-026
+    2300162: Sus Duvar-027
+    2300164: Sus Duvar-028
+    2300166: Sus Duvar-029
+    2300168: Sus Duvar-030
+    2300170: Sus Duvar-031
+    2300172: Sus Duvar-032
+    2300174: Sus Duvar-033
+    2300176: Sus Duvar-034
+    2300178: Sus Duvar-043
+    2300180: Sus Duvar-044
+    2300182: Sus Duvar-045
+    2300184: Sus Duvar-046
+    2300186: Sus Duvar-047
+    2300188: Sus Duvar-048
+    2300190: Sus Duvar-049
+    2300192: Sus Duvar-050
+    2300194: Sus Duvar-051
+    2300196: Sus Duvar-052
+    2300198: Sus Duvar-053
+    2300200: Sus Duvar-054
+    2300202: Sus Duvar-055
+    2300204: Sus Duvar-056
+    2300206: Sus Duvar-057
+    2300208: Sus Duvar-058
+    2300210: Sus Duvar-059
+    2300212: Sus Duvar-060
+    2300214: Sus Duvar-061
+    2300216: Sus Duvar-062
+    2300218: Sus Duvar-063
+    2300220: Sus Duvar-064
+    2300222: Sus Duvar-065
+    2300224: Sus Duvar-066
+    2300226: Sus Duvar-067
+    2300228: Sus Duvar-068
+    2300230: Sus Duvar-069
+    2300232: Sus Duvar-070
+    2300234: Sus Duvar-071
+    2300236: Sus Duvar-072
+    2300238: Sus Duvar-073
+    2300240: Sus Duvar-074
+    2300242: Sus Duvar-075
+    2300244: Sus Duvar-076
+    2300246: Sus Duvar-077
+    2300248: Sus Duvar-078
+    2300250: Sus Duvar-079
+    2300252: Sus Duvar-080
+    2300254: Sus Duvar-081
+    2300256: Sus Duvar-082
+    2300258: Sus Duvar-083
+    2300260: Sus Duvar-084
+    2300262: Sus Duvar-085
+    2300264: Sus Duvar-086
+    2300266: Sus Duvar-087
+    2300268: Sus Duvar-088
+    2300270: Sus Duvar-089
+    2300272: Sus Duvar-090
+    2300274: Sus Duvar-091
+    2300276: Sus Duvar-092
+    2300278: Sus Duvar-093
+    2300280: Sus Duvar-094
+    2300282: Sus Duvar-095
+    2300284: Sus Duvar-096
+    2300286: Sus Duvar-097
+    2300288: Sus Duvar-098
+    2300290: Sus Duvar-099
+    2300292: Sus Duvar-1
+    2300294: Sus Duvar-100
+    2300296: Sus Duvar-101
+    2300298: Sus Duvar-102
+    2300300: Sus Duvar-103
+    2300302: Sus Duvar-104
+    2300304: Sus Duvar-105
+    2300306: Sus Duvar-106
+    2300308: Sus Duvar-107
+    2300310: Sus Duvar-108
+    2300312: Sus Duvar-109
+    2300314: Sus Duvar-110
+    2300316: Sus Duvar-111
+    2300318: Sus Duvar-112
+    2300320: Sus Duvar-113
+    2300322: Sus Duvar-114
+    2300324: Sus Duvar-115
+    2300326: Sus Duvar-116
+    2300328: Sus Duvar-117
+    2300330: Sus Duvar-118
+    2300332: Sus Duvar-119
+    2300334: Sus Duvar-120
+    2300336: Sus Duvar-121
+    2300338: Sus Duvar-122
+    2300340: Sus Duvar-123
+    2300342: Sus Duvar-124
+    2300344: Sus Duvar-2
+    2300346: Sus Duvar-3
+    2300348: Sus Duvar-4
+    2300350: Sus Duvar-5
+    2300352: Yol-003
+    2300354: Yol-006
+    2300356: Yol-007
+    2300358: Yol-008
+    2300360: Yol-009
+    2300362: Yol-021
+    2300364: Yol-022
+    2300366: Yol-023
+    2300368: Yol-024
+    2300370: Yol-025
+    2300372: Yol-026
+    2300374: Yol-027
+    2300376: Yol-028
+    2300378: Yol-029
+    2300380: Yol-030
+    2300382: Yol-031
+    2300384: Yol-032
+    2300386: Yol-033
+    2300388: Yol-034
+    2300390: Yol-035
+    2300392: Yol-036
+    2300394: Yol-037
+    2300396: Yol-038
+    2300398: Yol-039
+    2300400: Yol-040
+    2300402: Para-003
+    2300404: Para-034
+    2300406: Para-035
+    2300408: Para-036
+    2300410: Para-037
+    2300412: Para-038
+    2300414: Para-039
+    2300416: Para-040
+    2300418: Para-041
+    2300420: Para-042
+    2300422: Para-043
+    2300424: Para-044
+    2300426: Para-045
+    2300428: Para-047
+    2300430: Para-048
+    2300432: Para-049
+    2300434: Para-050
+    2300436: Para-051
+    2300438: Para-052
+    2300440: Para-053
+    2300442: Para-054
+    2300444: Para-055
+    2300446: Para-056
+    2300448: Para-057
+    2300450: Para-058
+    2300452: Para-059
+    2300454: Para-060
+    2300456: Para-061
+    2300458: Para-062
+    2300460: Para-063
+    2300462: Para-064
+    2300464: Para-065
+    2300466: Para-066
+    2300468: Para-067
+    2300470: Para-068
+    2300472: Para-069
+    2300474: Para-070
+    2300476: Para-071
+    2300478: Para-072
+    2300480: Para-073
+    2300482: Para-074
+    2300484: Para-075
+    2300486: Para-076
+    2300488: Para-077
+    2300490: Para-078
+    2300492: Para-079
+    2300494: Para-080
+    2300496: Para-081
+    2300498: Para-082
+    2300500: Para-083
+    2300502: Para-084
+    2300504: Para-085
+    2300506: Para-086
+    2300508: Para-087
+    2300510: Para-088
+    2300512: Para-089
+    2300514: Para-090
+    2300516: Para-091
+    2300518: Para-092
+    2300520: Para-093
+    2300522: Para-094
+    2300524: Para-095
+    2300526: Para-096
+    2300528: Para-097
+    2300530: Para-098
+    2300532: Para-099
+    2300534: Para-100
+    2300536: Para-101
+    2300538: Para-102
+    2300540: Para-103
+    2300542: Para-104
+    2300544: Para-105
+    2300546: Para-106
+    2300548: Para-107
+    3300000: Engel-005
+    3300002: Engel-006
+    3300004: Engel-007
+    3300006: Engel-008
+    3300008: Engel-009
+    3300010: Engel-010
+    3300012: Engel-011
+    3300014: Engel-012
+    3300016: Engel-013
+    3300018: Engel-014
+    3300020: Engel-015
+    3300022: Engel-016
+    3300024: Engel-017
+    3300026: Engel-018
+    3300028: Engel-019
+    3300030: Engel-020
+    3300032: Engel-021
+    3300034: Engel-022
+    3300036: Engel-023
+    3300038: Engel-024
+    3300040: Engel-025
+    3300042: Engel-026
+    3300044: Engel-027
+    3300046: Engel-028
+    3300048: Engel-029
+    3300050: Engel-030
+    3300052: Engel-031
+    3300054: Engel-032
+    3300056: Engel-033
+    3300058: Engel-034
+    3300060: Engel-035
+    3300062: Engel-036
+    3300064: Engel-037
+    3300066: Engel-038
+    3300068: Engel-039
+    3300070: Engel-040
+    3300072: Engel-041
+    3300074: Engel-042
+    3300076: Engel-043
+    3300078: Engel-044
+    3300080: Engel-045
+    3300082: Engel-046
+    3300084: Engel-047
+    3300086: Engel-048
+    3300088: Engel-049
+    3300090: Engel-050
+    3300092: Engel-051
+    3300094: Engel-052
+    3300096: Engel-053
+    3300098: Engel-054
+    3300100: Engel-055
+    3300102: Engel-056
+    3300104: Engel-057
+    3300106: Engel-058
+    3300108: Engel-059
+    3300110: Engel-060
+    3300112: Engel-061
+    3300114: Engel-062
+    3300116: Engel-079
+    3300118: Engel-080
+    3300120: Engel-081
+    3300122: Engel-082
+    3300124: Object001
+    3300126: Object003
+    3300128: Object004
+    3300130: Object005
+    3300132: Object007
+    3300134: Object015
+    3300136: Object016
+    3300138: Object017
+    3300140: Sus Duvar-006
+    3300142: Sus Duvar-007
+    3300144: Sus Duvar-008
+    3300146: Sus Duvar-016
+    3300148: Sus Duvar-017
+    3300150: Sus Duvar-018
+    3300152: Sus Duvar-019
+    3300154: Sus Duvar-020
+    3300156: Sus Duvar-021
+    3300158: Sus Duvar-022
+    3300160: Sus Duvar-026
+    3300162: Sus Duvar-027
+    3300164: Sus Duvar-028
+    3300166: Sus Duvar-029
+    3300168: Sus Duvar-030
+    3300170: Sus Duvar-031
+    3300172: Sus Duvar-032
+    3300174: Sus Duvar-033
+    3300176: Sus Duvar-034
+    3300178: Sus Duvar-043
+    3300180: Sus Duvar-044
+    3300182: Sus Duvar-045
+    3300184: Sus Duvar-046
+    3300186: Sus Duvar-047
+    3300188: Sus Duvar-048
+    3300190: Sus Duvar-049
+    3300192: Sus Duvar-050
+    3300194: Sus Duvar-051
+    3300196: Sus Duvar-052
+    3300198: Sus Duvar-053
+    3300200: Sus Duvar-054
+    3300202: Sus Duvar-055
+    3300204: Sus Duvar-056
+    3300206: Sus Duvar-057
+    3300208: Sus Duvar-058
+    3300210: Sus Duvar-059
+    3300212: Sus Duvar-060
+    3300214: Sus Duvar-061
+    3300216: Sus Duvar-062
+    3300218: Sus Duvar-063
+    3300220: Sus Duvar-064
+    3300222: Sus Duvar-065
+    3300224: Sus Duvar-066
+    3300226: Sus Duvar-067
+    3300228: Sus Duvar-068
+    3300230: Sus Duvar-069
+    3300232: Sus Duvar-070
+    3300234: Sus Duvar-071
+    3300236: Sus Duvar-072
+    3300238: Sus Duvar-073
+    3300240: Sus Duvar-074
+    3300242: Sus Duvar-075
+    3300244: Sus Duvar-076
+    3300246: Sus Duvar-077
+    3300248: Sus Duvar-078
+    3300250: Sus Duvar-079
+    3300252: Sus Duvar-080
+    3300254: Sus Duvar-081
+    3300256: Sus Duvar-082
+    3300258: Sus Duvar-083
+    3300260: Sus Duvar-084
+    3300262: Sus Duvar-085
+    3300264: Sus Duvar-086
+    3300266: Sus Duvar-087
+    3300268: Sus Duvar-088
+    3300270: Sus Duvar-089
+    3300272: Sus Duvar-090
+    3300274: Sus Duvar-091
+    3300276: Sus Duvar-092
+    3300278: Sus Duvar-093
+    3300280: Sus Duvar-094
+    3300282: Sus Duvar-095
+    3300284: Sus Duvar-096
+    3300286: Sus Duvar-097
+    3300288: Sus Duvar-098
+    3300290: Sus Duvar-099
+    3300292: Sus Duvar-1
+    3300294: Sus Duvar-100
+    3300296: Sus Duvar-101
+    3300298: Sus Duvar-102
+    3300300: Sus Duvar-103
+    3300302: Sus Duvar-104
+    3300304: Sus Duvar-105
+    3300306: Sus Duvar-106
+    3300308: Sus Duvar-107
+    3300310: Sus Duvar-108
+    3300312: Sus Duvar-109
+    3300314: Sus Duvar-110
+    3300316: Sus Duvar-111
+    3300318: Sus Duvar-112
+    3300320: Sus Duvar-113
+    3300322: Sus Duvar-114
+    3300324: Sus Duvar-115
+    3300326: Sus Duvar-116
+    3300328: Sus Duvar-117
+    3300330: Sus Duvar-118
+    3300332: Sus Duvar-119
+    3300334: Sus Duvar-120
+    3300336: Sus Duvar-121
+    3300338: Sus Duvar-122
+    3300340: Sus Duvar-123
+    3300342: Sus Duvar-124
+    3300344: Sus Duvar-2
+    3300346: Sus Duvar-3
+    3300348: Sus Duvar-4
+    3300350: Sus Duvar-5
+    3300352: Yol-003
+    3300354: Yol-006
+    3300356: Yol-007
+    3300358: Yol-008
+    3300360: Yol-009
+    3300362: Yol-021
+    3300364: Yol-022
+    3300366: Yol-023
+    3300368: Yol-024
+    3300370: Yol-025
+    3300372: Yol-026
+    3300374: Yol-027
+    3300376: Yol-028
+    3300378: Yol-029
+    3300380: Yol-030
+    3300382: Yol-031
+    3300384: Yol-032
+    3300386: Yol-033
+    3300388: Yol-034
+    3300390: Yol-035
+    3300392: Yol-036
+    3300394: Yol-037
+    3300396: Yol-038
+    3300398: Yol-039
+    3300400: Yol-040
+    3300402: Para-003
+    3300404: Para-034
+    3300406: Para-035
+    3300408: Para-036
+    3300410: Para-037
+    3300412: Para-038
+    3300414: Para-039
+    3300416: Para-040
+    3300418: Para-041
+    3300420: Para-042
+    3300422: Para-043
+    3300424: Para-044
+    3300426: Para-045
+    3300428: Para-047
+    3300430: Para-048
+    3300432: Para-049
+    3300434: Para-050
+    3300436: Para-051
+    3300438: Para-052
+    3300440: Para-053
+    3300442: Para-054
+    3300444: Para-055
+    3300446: Para-056
+    3300448: Para-057
+    3300450: Para-058
+    3300452: Para-059
+    3300454: Para-060
+    3300456: Para-061
+    3300458: Para-062
+    3300460: Para-063
+    3300462: Para-064
+    3300464: Para-065
+    3300466: Para-066
+    3300468: Para-067
+    3300470: Para-068
+    3300472: Para-069
+    3300474: Para-070
+    3300476: Para-071
+    3300478: Para-072
+    3300480: Para-073
+    3300482: Para-074
+    3300484: Para-075
+    3300486: Para-076
+    3300488: Para-077
+    3300490: Para-078
+    3300492: Para-079
+    3300494: Para-080
+    3300496: Para-081
+    3300498: Para-082
+    3300500: Para-083
+    3300502: Para-084
+    3300504: Para-085
+    3300506: Para-086
+    3300508: Para-087
+    3300510: Para-088
+    3300512: Para-089
+    3300514: Para-090
+    3300516: Para-091
+    3300518: Para-092
+    3300520: Para-093
+    3300522: Para-094
+    3300524: Para-095
+    3300526: Para-096
+    3300528: Para-097
+    3300530: Para-098
+    3300532: Para-099
+    3300534: Para-100
+    3300536: Para-101
+    3300538: Para-102
+    3300540: Para-103
+    3300542: Para-104
+    3300544: Para-105
+    3300546: Para-106
+    3300548: Para-107
+    4300000: Yol-034
+    4300002: Engel-081
+    4300004: Sus Duvar-124
+    4300006: Sus Duvar-123
+    4300008: Yol-021
+    4300010: Sus Duvar-122
+    4300012: Sus Duvar-121
+    4300014: Sus Duvar-120
+    4300016: Sus Duvar-119
+    4300018: Sus Duvar-118
+    4300020: Yol-026
+    4300022: Sus Duvar-022
+    4300024: Sus Duvar-026
+    4300026: Yol-027
+    4300028: Sus Duvar-027
+    4300030: Yol-028
+    4300032: Object001
+    4300034: Object003
+    4300036: Yol-029
+    4300038: Object004
+    4300040: Sus Duvar-028
+    4300042: Yol-030
+    4300044: Object005
+    4300046: Sus Duvar-029
+    4300048: Sus Duvar-030
+    4300050: Yol-031
+    4300052: Object007
+    4300054: Sus Duvar-031
+    4300056: Sus Duvar-032
+    4300058: Sus Duvar-033
+    4300060: Yol-032
+    4300062: Sus Duvar-034
+    4300064: Yol-033
+    4300066: Sus Duvar-117
+    4300068: Sus Duvar-113
+    4300070: Engel-010
+    4300072: Engel-011
+    4300074: Engel-012
+    4300076: Engel-013
+    4300078: Engel-014
+    4300080: Engel-015
+    4300082: Engel-016
+    4300084: Engel-017
+    4300086: Engel-018
+    4300088: Engel-019
+    4300090: Engel-020
+    4300092: Engel-021
+    4300094: Engel-022
+    4300096: Engel-023
+    4300098: Engel-024
+    4300100: Engel-025
+    4300102: Engel-026
+    4300104: Sus Duvar-112
+    4300106: Sus Duvar-111
+    4300108: Sus Duvar-049
+    4300110: Engel-033
+    4300112: Sus Duvar-050
+    4300114: Engel-034
+    4300116: Sus Duvar-051
+    4300118: Engel-035
+    4300120: Sus Duvar-052
+    4300122: Engel-036
+    4300124: Sus Duvar-053
+    4300126: Engel-037
+    4300128: Sus Duvar-110
+    4300130: Sus Duvar-109
+    4300132: Sus Duvar-108
+    4300134: Sus Duvar-055
+    4300136: Engel-040
+    4300138: Sus Duvar-056
+    4300140: Engel-041
+    4300142: Sus Duvar-057
+    4300144: Engel-042
+    4300146: Sus Duvar-058
+    4300148: Engel-043
+    4300150: Sus Duvar-059
+    4300152: Engel-044
+    4300154: Sus Duvar-060
+    4300156: Engel-082
+    4300158: Engel-047
+    4300160: Sus Duvar-063
+    4300162: Sus Duvar-064
+    4300164: Engel-048
+    4300166: Sus Duvar-065
+    4300168: Yol-035
+    4300170: Sus Duvar-066
+    4300172: Yol-036
+    4300174: Sus Duvar-067
+    4300176: Sus Duvar-068
+    4300178: Object016
+    4300180: Engel-049
+    4300182: Engel-050
+    4300184: Sus Duvar-069
+    4300186: Engel-051
+    4300188: Engel-052
+    4300190: Engel-053
+    4300192: Engel-054
+    4300194: Sus Duvar-070
+    4300196: Sus Duvar-071
+    4300198: Engel-055
+    4300200: Yol-037
+    4300202: Engel-056
+    4300204: Sus Duvar-072
+    4300206: Sus Duvar-073
+    4300208: Yol-038
+    4300210: Yol-039
+    4300212: Yol-040
+    4300214: Engel-057
+    4300216: Sus Duvar-074
+    4300218: Sus Duvar-075
+    4300220: Engel-058
+    4300222: Sus Duvar-076
+    4300224: Engel-059
+    4300226: Sus Duvar-077
+    4300228: Object017
+    4300230: Sus Duvar-078
+    4300232: Engel-061
+    4300234: Engel-062
+    4300236: Sus Duvar-107
+    4300238: Sus Duvar-101
+    4300240: Sus Duvar-084
+    4300242: Sus Duvar-085
+    4300244: Sus Duvar-086
+    4300246: Sus Duvar-087
+    4300248: Sus Duvar-088
+    4300250: Sus Duvar-089
+    4300252: Sus Duvar-090
+    4300254: Sus Duvar-100
+    4300256: Sus Duvar-099
+    4300258: Sus Duvar-094
+    4300260: Sus Duvar-095
+    4300262: Sus Duvar-096
+    4300264: Sus Duvar-097
+    4300266: Sus Duvar-098
+    4300268: Sus Duvar-093
+    4300270: Sus Duvar-092
+    4300272: Sus Duvar-083
+    4300274: Sus Duvar-105
+    4300276: Sus Duvar-082
+    4300278: Engel-039
+    4300280: Sus Duvar-054
+    4300282: Engel-038
+    4300284: Engel-032
+    4300286: Sus Duvar-048
+    4300288: Engel-009
+    4300290: Sus Duvar-115
+    4300292: Sus Duvar-116
+    4300294: Sus Duvar-043
+    4300296: Sus Duvar-021
+    4300298: Yol-025
+    4300300: Sus Duvar-020
+    4300302: Yol-024
+    4300304: Yol-022
+    4300306: Sus Duvar-019
+    4300308: Sus Duvar-018
+    4300310: Sus Duvar-017
+    4300312: Sus Duvar-4
+    4300314: Sus Duvar-1
+    4300316: Sus Duvar-2
+    4300318: Sus Duvar-3
+    4300320: Sus Duvar-5
+    4300322: Sus Duvar-006
+    4300324: Sus Duvar-007
+    4300326: Sus Duvar-008
+    4300328: Sus Duvar-016
+    4300330: Yol-003
+    4300332: Yol-006
+    4300334: Yol-007
+    4300336: Yol-008
+    4300338: Yol-009
+    4300340: Yol-023
+    4300342: Engel-005
+    4300344: Engel-006
+    4300346: Engel-007
+    4300348: Engel-008
+    4300350: Object015
+    4300352: Engel-027
+    4300354: Engel-028
+    4300356: Sus Duvar-044
+    4300358: Sus Duvar-045
+    4300360: Engel-029
+    4300362: Sus Duvar-046
+    4300364: Engel-030
+    4300366: Sus Duvar-047
+    4300368: Engel-031
+    4300370: Sus Duvar-061
+    4300372: Engel-045
+    4300374: Sus Duvar-062
+    4300376: Engel-046
+    4300378: Engel-060
+    4300380: Sus Duvar-079
+    4300382: Sus Duvar-080
+    4300384: Sus Duvar-081
+    4300386: Sus Duvar-091
+    4300388: Sus Duvar-102
+    4300390: Sus Duvar-103
+    4300392: Sus Duvar-104
+    4300394: Sus Duvar-106
+    4300396: Sus Duvar-114
+    4300398: Engel-079
+    4300400: Engel-080
+    4300402: Para-003
+    4300404: Para-034
+    4300406: Para-035
+    4300408: Para-036
+    4300410: Para-037
+    4300412: Para-038
+    4300414: Para-039
+    4300416: Para-040
+    4300418: Para-041
+    4300420: Para-042
+    4300422: Para-043
+    4300424: Para-044
+    4300426: Para-045
+    4300428: Para-047
+    4300430: Para-048
+    4300432: Para-049
+    4300434: Para-050
+    4300436: Para-051
+    4300438: Para-052
+    4300440: Para-053
+    4300442: Para-054
+    4300444: Para-055
+    4300446: Para-056
+    4300448: Para-057
+    4300450: Para-058
+    4300452: Para-059
+    4300454: Para-060
+    4300456: Para-061
+    4300458: Para-062
+    4300460: Para-063
+    4300462: Para-064
+    4300464: Para-065
+    4300466: Para-066
+    4300468: Para-067
+    4300470: Para-068
+    4300472: Para-069
+    4300474: Para-070
+    4300476: Para-071
+    4300478: Para-072
+    4300480: Para-073
+    4300482: Para-074
+    4300484: Para-075
+    4300486: Para-076
+    4300488: Para-077
+    4300490: Para-078
+    4300492: Para-079
+    4300494: Para-080
+    4300496: Para-081
+    4300498: Para-082
+    4300500: Para-083
+    4300502: Para-084
+    4300504: Para-085
+    4300506: Para-086
+    4300508: Para-087
+    4300510: Para-088
+    4300512: Para-089
+    4300514: Para-090
+    4300516: Para-091
+    4300518: Para-092
+    4300520: Para-093
+    4300522: Para-094
+    4300524: Para-095
+    4300526: Para-096
+    4300528: Para-097
+    4300530: Para-098
+    4300532: Para-099
+    4300534: Para-100
+    4300536: Para-101
+    4300538: Para-102
+    4300540: Para-103
+    4300542: Para-104
+    4300544: Para-105
+    4300546: Para-106
+    4300548: Para-107
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
